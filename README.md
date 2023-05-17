@@ -1,2 +1,2 @@
-# Introduction-to-Programming_and_Numerical_Analysis
+#IPNA
 Introduction to Programming and Numerical Analysis
